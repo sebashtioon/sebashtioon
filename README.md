@@ -13,3 +13,7 @@ Welcome to my corner of the coding world!
 ---
 
 Thank you for visiting my profile! If you have any questions or want to collaborate, don’t hesitate to reach out (Links are under my profile)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
