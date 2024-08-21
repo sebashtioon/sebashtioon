@@ -1,4 +1,4 @@
-# Hey! I'm sebashtioon 👋 
+# Hey! I'm sebashtioon.
 
 Welcome to my corner of the coding world!
 
