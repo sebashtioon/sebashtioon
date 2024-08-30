@@ -6,7 +6,7 @@ Welcome to my corner of the coding world!
 ![sebashtioon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebashtioon&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical) <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebashtioon&layout=compact&theme=radical) <br>
 
-## 🌟 Highlighted Repositories
+## 🌟 Highlighted Repositories and Projects
 
 - **[Expland](https://github.com/NoeCoOfficial/Expland):** A game in development. Check out our progress if you’re interested!
 
