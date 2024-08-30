@@ -8,7 +8,7 @@ Welcome to my corner of the coding world!
 
 ## 🌟 Highlighted Repositories
 
-- **[Expland](https://github.com/sebashtioon/Expland):** A game in development. Check out our progress if you’re interested!
+- **[Expland](https://https://github.com/NoeCoOfficial/Expland):** A game in development. Check out our progress if you’re interested!
 
 
 ---
