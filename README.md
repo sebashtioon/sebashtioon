@@ -2,9 +2,22 @@
 
 Welcome to my corner of the coding world!
 
-
-![sebashtioon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebashtioon&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical) <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebashtioon&layout=compact&theme=radical) <br>
+<div class="section highlights">
+  <table>
+      <tr>
+          <td>
+              <a href="https://github.com/sebashtioon">
+                  <img src="https://github-readme-stats.vercel.app/api?username=sebashtioon&show_icons=true&theme=vision-friendly-dark" alt="sebashtioon's GitHub Stats">
+              </a>
+          </td>
+          <td>
+              <a href="https://github.com/sebashtioon">
+                  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebashtioon&theme=vision-friendly-dark" alt="sebashtioon's GitHub Streak">
+              </a>
+          </td>
+      </tr>
+  </table>
+</div>
 
 ## 🌟 Highlighted Repositories and Projects
 
