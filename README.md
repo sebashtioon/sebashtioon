@@ -41,7 +41,7 @@ Welcome to my corner of the coding world! <br>
 
 ---
 
-Thank you for visiting my profile! If you have any questions or want to collaborate, please reach out. You can reach me on the platforms above under my bio.
+Thank you for visiting my profile! If you have any questions or want to collaborate, please don't hesitate to reach out. You can reach me on the platforms under my bio.
 
 <p align="center">
   Visitor count<br>
