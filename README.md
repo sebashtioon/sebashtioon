@@ -2,7 +2,7 @@
 
 Welcome to my corner of the coding world! <br>
 ## ⓘ A bit about me
->  I am a 14 year old in high school who loves messing around with computers and programming. My favorite video game is **Geometry Dash**, and the engine I uses to make games is [Godot](https://godotengine.org/). I also use [Blender](https://www.blender.org/) to make 3D assets. I have been making games and projects for over 2 years! But I have only started making games that I want to publish in 2024. I am also a founder of [Noe Co.](https://github.com/NoeCoOfficial).
+>  I am a 14 year old in high school who loves messing around with computers and programming. My favorite video game is **Geometry Dash**, and the engine I use to make games is [Godot](https://godotengine.org/). I also use [Blender](https://www.blender.org/) to make 3D assets. I have been making games and projects for over 2 years! But I have only started making games I want to publish in 2024. I am also a founder of [Noe Co.](https://github.com/NoeCoOfficial).
 > > My email: [sebastiansuciu607@gmail.com](mailto:sebastiansuciu607@gmail.com) <br>
 > > Discord: [@sebashtioon](https://discord.com/users/1110329250306859018) <br>
 > > Youtube: [@sebashtioon_](https://www.youtube.com/@sebashtioon_) <br>
@@ -49,7 +49,7 @@ Welcome to my corner of the coding world! <br>
 
 ---
 
-Thank you for visiting my profile! If you have any questions or want to collaborate, please don't hesitate to reach out. You can reach me on the platforms under my bio. I'm constantly active on Discord.
+Thank you for visiting my profile! If you have any questions or want to collaborate, please don't hesitate to reach out. Feel free to reach me on the platforms under my bio. I'm constantly active on Discord.
 
 <p align="center">
   Visitor count<br>
