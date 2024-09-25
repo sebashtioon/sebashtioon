@@ -9,6 +9,9 @@ Welcome to my corner of the coding world! <br>
 > > GitHub: [@sebashtioon](https://github.com/sebashtioon) <br>
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
+
+
+
 <div class="section highlights">
   <table>
       <tr>
@@ -29,9 +32,14 @@ Welcome to my corner of the coding world! <br>
 <h2 style="text-align: center;">🛠 My Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,blender,godot,vscode,windows,cpp,py,obsidian" />
+    <img src="https://skillicons.dev/icons?i=git,github,blender,godot,vscode,windows,cpp"/>
+    <span>
+      <img src="https://avatars.githubusercontent.com/u/88206422?s=200&v=4" width="50" height="50"/>
+    </span>
+    <img src="https://skillicons.dev/icons?i=py,obsidian"/>
   </a>
 </p>
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
