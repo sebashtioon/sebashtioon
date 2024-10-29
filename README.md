@@ -45,6 +45,7 @@ Welcome to my corner of the coding world! <br>
 
 
 - **[Expland](https://github.com/NoeCoOfficial/Expland):** A game in development. Check out our progress if you’re interested!
+- **[godot-utils](https://github.com/sebashtioon/godot-utils):** Utility functions for Godot!
 
 
 ---
