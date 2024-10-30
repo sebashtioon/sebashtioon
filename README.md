@@ -45,7 +45,7 @@ Welcome to my corner of the coding world! <br>
 
 - **[Expland](https://github.com/NoeCoOfficial/Expland):** A game in development. Check out our progress if you’re interested!
 - **[Beans on a boat](https://github.com/sebashtioon/BeansOnABoat):** A very silly game made for a school friend.
-- **[ThirtyThousandInForty](https://github.com/sebashtioon/ThirtyThousandInForty):** Meaningless clicking game I made on my school chromebook.
+- **[ThirtyThousandInForty](https://github.com/sebashtioon/ThirtyThousandInForty):** Meaningless clicking game I made on my school Chromebook.
 
 ## My Recent Projects
 
