@@ -41,11 +41,16 @@ Welcome to my corner of the coding world! <br>
 </p>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
-
+## My Recent Games
 
 - **[Expland](https://github.com/NoeCoOfficial/Expland):** A game in development. Check out our progress if you’re interested!
-- **[godot-utils](https://github.com/sebashtioon/godot-utils):** Utility functions for Godot!
+- **[Beans on a boat](https://github.com/sebashtioon/BeansOnABoat):** A very silly game made for a school friend.
+
+## My Recent Projects
+
+- **[Godot Utils](https://github.com/sebashtioon/godot-utils):** Utility functions for Godot!
+- **[ChristianMod](https://github.com/sebashtioon/ChristianMod):** A Geometry Dash mod designed to bring you closer to the message of Christ! (Currently in development)
+
 
 
 ---
