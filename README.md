@@ -39,21 +39,8 @@
   </a>
 </p>
 
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="38" height="38" /> My Recent Games
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="38" height="38" /> Recent Projects
 - **[Expland](https://github.com/NoeCoOfficial/Expland):** A game in development. Check out our progress if you’re interested!
-- **[Beans on a boat](https://github.com/sebashtioon/BeansOnABoat):** A very silly game made for a school friend.
-- **[ThirtyThousandInForty](https://github.com/sebashtioon/ThirtyThousandInForty):** Meaningless clicking game I made on my school Chromebook.
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="38" height="38" /> My Recent Projects
-
-- **[Godot Utils](https://github.com/sebashtioon/godot-utils):** Utility functions for Godot!
-- **[ChristianMod](https://github.com/sebashtioon/ChristianMod):** A Geometry Dash mod designed to bring you closer to the message of Christ! (Currently in development)
-
-
-
----
 
 Thank you for visiting my profile! If you have any questions or want to collaborate, please don't hesitate to reach out. Feel free to reach me on the platforms under my bio. I'm constantly active on Discord.
 
