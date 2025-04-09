@@ -1,56 +1,77 @@
-# Hey! I'm sebashtioon <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
-
-## A bit about me
->  I am a 14 year old in high school who loves messing around with computers and programming. My favorite video game is **Geometry Dash**, and the engine I use to make games is [Godot](https://godotengine.org/). I also use [Blender](https://www.blender.org/) to make 3D assets. I have been making games and projects for over 2 years! But I have only started making games I want to publish in 2024. I am also a founder of [Noe Co.](https://github.com/NoeCoOfficial), an indie game dev partnership.
-> > My email: [sebastiansuciu607@gmail.com](mailto:sebastiansuciu607@gmail.com) <br>
-> > Discord: [@sebashtioon](https://discord.com/users/1110329250306859018) <br>
-> > Youtube: [@sebashtioon_](https://www.youtube.com/@sebashtioon_) <br>
-> > GitHub: [@sebashtioon](https://github.com/sebashtioon) <br>
-## Github Stats 
-
-
-
-
-<div class="section highlights">
-  <table>
-      <tr>
-          <td>
-              <a href="https://github.com/sebashtioon">
-                  <img src="https://github-readme-stats.vercel.app/api?username=sebashtioon&show_icons=true&theme=vision-friendly-dark" alt="sebashtioon's GitHub Stats">
-              </a>
-          </td>
-          <td>
-              <a href="https://github.com/sebashtioon">
-                  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebashtioon&theme=vision-friendly-dark" alt="sebashtioon's GitHub Streak">
-              </a>
-          </td>
-      </tr>
-  </table>
-</div>
-
-<h2 style="text-align: center;">Skills</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,blender,godot,vscode,windows,cpp"/>
-    <span>
-      <img src="https://avatars.githubusercontent.com/u/88206422?s=200&v=4" width="50" height="50"/>
-    </span>
-    <img src="https://skillicons.dev/icons?i=py,obsidian"/>
-  </a>
-</p>
-
-## Recent Projects
-- **[Expland](https://github.com/NoeCoOfficial/Expland):** A game in development. Check out our progress if you’re interested!
-
-Thank you for visiting my profile! If you have any questions or want to collaborate, please don't hesitate to reach out. Feel free to reach me on the platforms under my bio. I'm constantly active on Discord.
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sebashtioon/count.svg" />
-</p>
-
-
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</p>
+```yaml
+name: sebashtioon
+location: "'stralia (mate)"
+hobbies:
+  - "home automation"
+  - "programming"
+  - "messing with school computers (especially chromebooks)"
+  - "configuring my system"
+  - "self hosting"
+  - "device management"
+  - "typing"
+  - "using arch (btw)"
+languages:
+  - "english"
+  - "python"
+  - "javascript"
+  - "html"
+  - "svelte"
+  - "css"
+  - "dart/flutter"
+  - "shell scripting"
+  - "yaml"
+  - "markdown"
+- - "godot+gdscript"
+devices:
+  thinkpad:
+    model: "t460p"
+    cpu: "i7 6th"
+    ram: 32
+    gpu: 940mx
+    os: "Arch Linux (btw) and Windows 11"
+    de: "GNOME"
+    shell: "fish"
+    browser: "zen"
+  school_laptop:
+    model: "X1 Carbon 6th"
+    cpu: "i5-8350U"
+    ram: 8
+    os: "Arch Linux (btw)"
+    de: "Hyprland"
+    shell: "fish"
+    browser: "zen"
+  phone:
+    model: "Pixel 7 Pro"
+    storage: 128
+    ram: 12
+    os: "Android 15 QPR beta something"
+    browser: "firefox"
+essential_apps_and_packages:
+  - "zen"
+  - "firefox"
+  - "spotify"
+  - "foot (terminal)"
+  - "fish"
+  - "ags"
+  - "hyprland"
+  - "youtube"
+  - "neofetch"
+  - "linux"
+  - "todoist"
+  - "fitbit"
+  - "antennapod"
+  - "signal"
+  - "spark"
+  - "home assistant"
+  - "1password"
+  - "messages"
+  - "phone"
+  - "pacman"
+  - "nvim"
+  - "vscode"
+  - "git"
+  - "zoxide"
+  - "rofi-wayland"
+  - "thef ck"
+```
+```
