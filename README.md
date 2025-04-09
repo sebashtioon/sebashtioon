@@ -6,7 +6,7 @@
 > > Discord: [@sebashtioon](https://discord.com/users/1110329250306859018) <br>
 > > Youtube: [@sebashtioon_](https://www.youtube.com/@sebashtioon_) <br>
 > > GitHub: [@sebashtioon](https://github.com/sebashtioon) <br>
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+## Github Stats 
 
 
 
@@ -28,7 +28,7 @@
   </table>
 </div>
 
-<h2 style="text-align: center;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> My Skills</h2>
+<h2 style="text-align: center;">Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,blender,godot,vscode,windows,cpp"/>
@@ -39,7 +39,7 @@
   </a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="38" height="38" /> Recent Projects
+## Recent Projects
 - **[Expland](https://github.com/NoeCoOfficial/Expland):** A game in development. Check out our progress if you’re interested!
 
 Thank you for visiting my profile! If you have any questions or want to collaborate, please don't hesitate to reach out. Feel free to reach me on the platforms under my bio. I'm constantly active on Discord.
