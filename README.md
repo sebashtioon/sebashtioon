@@ -1,7 +1,7 @@
 # Hey! I'm sebashtioon <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 ## A bit about me
->  I am a 15 year old in high school who loves messing around with computers and programming. My favorite video game is **Geometry Dash**, and the engine I use to make games is [Godot](https://godotengine.org/). I also use [Blender](https://www.blender.org/) to make 3D assets. I have been making games and projects for over 2 years! But I have only started making games I want to publish in 2024. I am also a founder of [Noe Co.](https://github.com/NoeCoOfficial), an indie game dev partnership.
+>  I'm a 15 year old in high school who loves messing around with computers and programming. I normally just like to make small game projects, but recently, I have been working on a lot more than that, with some pretty big ones coming soon.
 > > My email: [sebastiansuciu607@gmail.com](mailto:sebastiansuciu607@gmail.com) <br>
 > > Discord: [@sebashtioon](https://discord.com/users/1110329250306859018) <br>
 > > Youtube: [@sebashtioon_](https://www.youtube.com/@sebashtioon_) <br>
