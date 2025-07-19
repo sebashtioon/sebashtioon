@@ -31,7 +31,7 @@
 <h2 style="text-align: center;">Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,blender,godot,vscode,windows,cpp"/>
+    <img src="https://skillicons.dev/icons?i=git,github,blender,godot,unreal,vscode,windows,cpp"/>
     <span>
       <img src="https://avatars.githubusercontent.com/u/88206422?s=200&v=4" width="50" height="50"/>
     </span>
