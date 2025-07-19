@@ -46,12 +46,6 @@
 Thank you for visiting my profile! If you have any questions or want to collaborate, please don't hesitate to reach out. Feel free to reach me on the platforms under my bio. I'm constantly active on Discord.
 
 <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sebashtioon/count.svg" />
-</p>
-
-
-<p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </p>
