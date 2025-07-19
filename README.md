@@ -41,6 +41,7 @@
 
 ## Recent Projects
 - **[Expland](https://github.com/NoeCoOfficial/Expland):** A game in development. Check out our progress if you’re interested!
+- **[The Swing](https://github.com/sebashtioon/The-Swing):** Alone on a swing, you remember what you tried to forget. [Available on itch.io](https://sebashtioon.itch.io/the-swing)
 
 Thank you for visiting my profile! If you have any questions or want to collaborate, please don't hesitate to reach out. Feel free to reach me on the platforms under my bio. I'm constantly active on Discord.
 
