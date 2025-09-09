@@ -1,5 +1,7 @@
 # yo, i'm sebashtioon
 
+https://sebashtioon.dev
+
 ## bio
 i'm a 15-year-old game dev & sorta 3d artist. i like turning my imagination into reality through code and 3d art. i've been making games and small side-projects here and there for over 4 years.
 
