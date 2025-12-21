@@ -10,6 +10,6 @@ that's basically it. i just like making stuff. i do have an indie game studio, [
 <h2 style="text-align: center;">what i know</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,blender,godot,unreal,vscode,visualstudio,windows,cpp,py,obsidian, flstudio"/>
+    <img src="https://skillicons.dev/icons?i=git,github,blender,godot,unreal,vscode,visualstudio,windows,cpp,py,obsidian,flstudio"/>
   </a>
 </p>
