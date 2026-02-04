@@ -1,15 +1,5 @@
-# yo, i'm sebashtioon
+yo hi\
+im sebashtioon
+
 
 https://sebashtioon.dev
-
-## bio
-i'm a 15-year-old game dev & sorta 3d artist. i've been making games and small side-projects here and there for over 5 years.
-
-that's basically it. i just like making stuff. i do have an indie game studio, [Xintegrate Studios](https://github.com/Xintegrate-Studios), where i work on my personal projects. i also co-founded another game studio with my friend from school called [Noe Co.](https://noeco.xyz/) where i'm working on my biggest project yet, [Expland](https://noeco.xyz/games/expland).
-
-<h2 style="text-align: center;">what i know</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,blender,godot,unreal,vscode,visualstudio,windows,cpp,py,obsidian"/>
-  </a>
-</p>
