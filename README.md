@@ -1,6 +1,5 @@
 # hi
-- im porfessional godot cooker (very good at godot)
-- i model stuff in belnder
+- im porfessional godot cooker (very good at godot) i also model stuff in blender
 
 working on a really big project rn
 
